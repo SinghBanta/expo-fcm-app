@@ -6,7 +6,7 @@ const App = () => {
   return (
     <SafeAreaView style={styles.container}>
       <WebView
-        source={{ uri: "https:second-brain-frontend-khaki.vercel.app" }}
+        source={{ uri: "https://nextjs-firebase-app-vert.vercel.app" }}
         style={styles.webview}
       />
     </SafeAreaView>
